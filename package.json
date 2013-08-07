@@ -1,0 +1,16 @@
+{
+  "name": "pavarotti",
+  "version": "0.0.1",
+  "description": "pavarotti creates CRUD controllers given a mongoose model",
+  "main": "pavarotti.litcoffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Creative-Licence-Digital/pavarotti.git"
+  },
+  "author": "CLD",
+  "license": "MIT",
+  "dependencies": {
+    "barefoot": "~0.0.19",
+    "underscore": "~1.5.1"
+  }
+}

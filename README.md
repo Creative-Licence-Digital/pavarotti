@@ -94,7 +94,7 @@ We can customise these methods by passing in configuration options to the main
 
   Defaults to `null`.
 
-* **afterFind**: `: { items: Model[], total: number, filteredTotal: number } |-> any
+* **afterFind**: `: { items: Model[], total: number, filteredTotal: number } |-> any`
 
   bfunction that, given the final result of the `find` method (results, number
   of total items and number of filtered items) returns some object that will be
